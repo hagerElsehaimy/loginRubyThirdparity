@@ -1,0 +1,15 @@
+secret_key_base: [103130170886854]
+development:
+  github:
+    app_id: 236711987193062
+    app_secret: 3e9b6827de2c1b3d01bd5adeea77ad90
+    options:
+      scope: 'user:email'
+      whatever: true
+production:
+  github:
+    app_id: 236711987193062
+    app_secret: 3e9b6827de2c1b3d01bd5adeea77ad90
+    options:
+      scope: 'user:email'
+      whatever: true
